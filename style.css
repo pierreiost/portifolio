@@ -1,0 +1,51 @@
+body {
+    background: url(fundo.jpg) no-repeat;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+ul{ 
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 15px 35px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+a{
+    color: rgb(247, 248, 251);
+    text-decoration: none;
+}
+img { 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    
+}
+.centro { 
+    text-align: center; 
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+nav a:hover{
+    color: rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif    
+}
+p {
+    max-width: 1000px;
+    
+}
